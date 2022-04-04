@@ -1,8 +1,1 @@
-<<<<<<< HEAD
 mereset
-tambah
-1
-2
-=======
-mereset
->>>>>>> parent of d752ff0 (edit file 4 .txt)

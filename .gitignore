@@ -1,0 +1,6 @@
+# ignore folder log
+log/
+# ignore yg ada .backup
+*.backup
+# kalau mau spesifik
+file1.txt
